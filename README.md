@@ -1,15 +1,7 @@
-# Header
+# title
 
-    Some description text
+this section is about the gist of the content.
 
-## Local Development
+## body 
 
-1. Open index.html in your browser.
-
-## Sample SubHeader
-
-    Trying to grasp the concept behind it.
-
-## Sample SubHeader-2 
-
-    Even more instructions.
+this section is a detailed view of the content.
